@@ -1,0 +1,280 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap");
+/* line 3, ../sass/_common.sass */
+html {
+  font-size: 100%;
+}
+
+/* line 5, ../sass/_common.sass */
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  position: relative;
+  font-size: 100%;
+  background: #213942;
+  color: #ffffff;
+  text-align: left;
+  font-weight: 400;
+}
+
+/* line 13, ../sass/_common.sass */
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+/* line 19, ../sass/_common.sass */
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 52px;
+  font-weight: 900;
+  line-height: 1.25;
+}
+
+/* line 25, ../sass/_common.sass */
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* line 31, ../sass/_common.sass */
+h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* line 37, ../sass/_common.sass */
+p {
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+/* line 41, ../sass/_common.sass */
+.green {
+  color: #00ff00;
+}
+
+/* line 3, ../sass/partials/_header.sass */
+#black-bar {
+  background: #000000;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+  padding: 5px 15px;
+}
+
+/* line 9, ../sass/partials/_header.sass */
+#header {
+  padding: 10px 15px 5px;
+}
+/* line 12, ../sass/partials/_header.sass */
+#header .logo {
+  font-weight: 800;
+  font-size: 36px;
+  color: #00ff00;
+}
+
+/* line 3, ../sass/partials/_footer.sass */
+#footer {
+  padding-top: 15px;
+}
+/* line 6, ../sass/partials/_footer.sass */
+#footer .services {
+  list-style: none;
+  padding-left: 0;
+}
+/* line 10, ../sass/partials/_footer.sass */
+#footer .services li {
+  background: left center no-repeat;
+  padding-left: 50px;
+  min-height: 32px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+/* line 17, ../sass/partials/_footer.sass */
+#footer .services li:nth-child(odd) {
+  background-image: url(/images/logo-small-white.png);
+}
+/* line 19, ../sass/partials/_footer.sass */
+#footer .services li:nth-child(even) {
+  background-image: url(/images/logo-small-green.png);
+}
+/* line 21, ../sass/partials/_footer.sass */
+#footer .bt {
+  border-top: 1px solid #ffffff;
+}
+
+/* line 4, ../sass/pages/_index.sass */
+.index-page .number {
+  display: flex;
+  align-items: center;
+  margin-top: -80px;
+  margin-bottom: -80px;
+  -moz-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+/* line 11, ../sass/pages/_index.sass */
+.index-page .number.right {
+  justify-content: flex-end;
+}
+/* line 13, ../sass/pages/_index.sass */
+.index-page .number.inactive {
+  opacity: 0;
+}
+/* line 15, ../sass/pages/_index.sass */
+.index-page .section-1 {
+  position: relative;
+  background: url(/images/pages/home/bg/1.jpg) center center no-repeat;
+  background-size: cover;
+  height: 650px;
+  text-align: right;
+  -moz-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+}
+/* line 23, ../sass/pages/_index.sass */
+.index-page .section-1 > div {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 40px 30px;
+}
+/* line 29, ../sass/pages/_index.sass */
+.index-page .section-2 {
+  position: relative;
+  background: #000000;
+  -moz-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+/* line 36, ../sass/pages/_index.sass */
+.index-page .section-2 .item {
+  display: flex;
+  align-items: center;
+}
+/* line 41, ../sass/pages/_index.sass */
+.index-page .section-2 .item > div:first-child {
+  width: 80px;
+  flex-shrink: 0;
+  margin-right: 5px;
+  text-align: center;
+}
+/* line 47, ../sass/pages/_index.sass */
+.index-page .section-2 .bl {
+  border-left: 1px solid #00ff00;
+}
+/* line 49, ../sass/pages/_index.sass */
+.index-page .section-2 .green-bar-wrapper {
+  position: relative;
+  padding-left: 3px;
+  margin-top: 15px;
+}
+/* line 54, ../sass/pages/_index.sass */
+.index-page .section-2 .green-bar-wrapper .bg-black {
+  position: relative;
+  padding: 0 0 10px 25px;
+}
+/* line 57, ../sass/pages/_index.sass */
+.index-page .section-2 .green-bar-wrapper:before {
+  content: "";
+  position: absolute;
+  border: 3px solid #00ff00;
+  left: 0;
+  top: -15px;
+  bottom: -15px;
+  right: 40%;
+}
+/* line 65, ../sass/pages/_index.sass */
+.index-page .section-3 {
+  position: relative;
+  background: url(/images/pages/home/bg/2.jpg) center center no-repeat;
+  background-size: cover;
+  -moz-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+/* line 72, ../sass/pages/_index.sass */
+.index-page .section-4 {
+  position: relative;
+  background: #000000;
+  -moz-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+/* line 80, ../sass/pages/_index.sass */
+.index-page .section-4 .flex {
+  display: flex;
+}
+/* line 83, ../sass/pages/_index.sass */
+.index-page .section-4 .flex > div {
+  padding-left: 7px;
+  padding-right: 7px;
+  font-weight: 700;
+  font-size: 18px;
+  width: 20%;
+}
+/* line 91, ../sass/pages/_index.sass */
+.index-page .section-4 .flex > div > div:first-child {
+  margin-bottom: 15px;
+}
+/* line 93, ../sass/pages/_index.sass */
+.index-page .section-4 .green-bar-wrapper {
+  display: inline-block;
+  position: relative;
+  padding-top: 10px;
+}
+/* line 98, ../sass/pages/_index.sass */
+.index-page .section-4 .green-bar-wrapper .bg-black {
+  position: relative;
+  padding: 0 60px 30px 60px;
+}
+/* line 101, ../sass/pages/_index.sass */
+.index-page .section-4 .green-bar-wrapper:before {
+  content: "";
+  position: absolute;
+  border: 3px solid #00ff00;
+  top: -3px;
+  left: -15px;
+  right: -15px;
+  bottom: 0;
+}
+/* line 109, ../sass/pages/_index.sass */
+.index-page .section-5 {
+  position: relative;
+  background: url(/images/pages/home/bg/3.jpg) center center no-repeat;
+  background-size: cover;
+  -moz-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  box-shadow: 0px 11px 50px 5px rgba(0, 0, 0, 0.58);
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+/* line 117, ../sass/pages/_index.sass */
+.index-page .section-5 > div {
+  background: url(/images/pages/home/map.png) center center no-repeat;
+}
+/* line 120, ../sass/pages/_index.sass */
+.index-page .section-5 > div .text-shadow {
+  text-shadow: 0px 0px 7px black;
+}

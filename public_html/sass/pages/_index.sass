@@ -1,0 +1,133 @@
+@import ../base
+
+.index-page
+	.number
+		display: flex
+		align-items: center
+		margin-top: -80px
+		margin-bottom: -80px
+		+transition(opacity .5s)
+
+		&.right
+			justify-content: flex-end
+		&.inactive
+			opacity: 0
+	.section-1
+		position: relative
+		background: url(/images/pages/home/bg/1.jpg) center center no-repeat
+		background-size: cover
+		height: 650px
+		text-align: right
+		+box-shadow(0px 11px 50px 5px rgba(0,0,0,0.58))
+
+		>div
+			position: absolute
+			left: 0
+			right: 0
+			bottom: 0
+			padding: 40px 30px
+	.section-2
+		position: relative
+		background: $black
+		+box-shadow(0px 11px 50px 5px rgba(0,0,0,0.58))
+		padding-top: 60px
+		padding-bottom: 60px
+
+		.item
+			display: flex
+			align-items: center
+
+			>div
+				&:first-child
+					width: 80px
+					flex-shrink: 0
+					margin-right: 5px
+					text-align: center
+				&:last-child
+		.bl
+			border-left: 1px solid $green
+		.green-bar-wrapper
+			position: relative
+			padding-left: 3px
+			margin-top: 15px
+
+			.bg-black
+				position: relative
+				padding: 0 0 10px 25px
+			&:before
+				content: ''
+				position: absolute
+				border: 3px solid $green
+				left: 0
+				top: -15px
+				bottom: -15px
+				right: 40%
+	.section-3
+		position: relative
+		background: url(/images/pages/home/bg/2.jpg) center center no-repeat
+		background-size: cover
+		+box-shadow(0px 11px 50px 5px rgba(0,0,0,0.58))
+		padding-top: 60px
+		padding-bottom: 60px
+	.section-4
+		position: relative
+		background: $black
+		+box-shadow(0px 11px 50px 5px rgba(0,0,0,0.58))
+		padding-top: 50px
+		padding-bottom: 50px
+		text-align: center
+
+		.flex
+			display: flex
+
+			>div
+				padding-left: 7px
+				padding-right: 7px
+				font-weight: 700
+				font-size: 18px
+				width: 20%
+
+				>div
+					&:first-child
+						margin-bottom: 15px
+		.green-bar-wrapper
+			display: inline-block
+			position: relative
+			padding-top: 10px
+
+			.bg-black
+				position: relative
+				padding: 0 60px 30px 60px
+			&:before
+				content: ''
+				position: absolute
+				border: 3px solid $green
+				top: -3px
+				left: -15px
+				right: -15px
+				bottom: 0
+	.section-5
+		position: relative
+		background: url(/images/pages/home/bg/3.jpg) center center no-repeat
+		background-size: cover
+		+box-shadow(0px 11px 50px 5px rgba(0,0,0,0.58))
+		padding-top: 40px
+		padding-bottom: 35px
+
+		>div
+			background: url(/images/pages/home/map.png) center center no-repeat
+
+			.text-shadow
+				text-shadow: 0px 0px 7px rgba(0,0,0,1)
+
+
+
+
+
+
+
+
+
+
+
+
