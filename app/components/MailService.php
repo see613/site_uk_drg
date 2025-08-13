@@ -24,10 +24,10 @@ class MailService extends CApplicationComponent {
         $mailer->SMTPAuth   = true;
         //$mailer->SMTPSecure = 'tls';
 
-        $mailer->Host       = "smtp.sendgrid.net";
+        $mailer->Host       = "";
         $mailer->Port       = 587;
-        $mailer->Username   = "apikey";
-        $mailer->Password   = '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';
+        $mailer->Username   = "";
+        $mailer->Password   = '';
 
         $mailer->From = 'info@drainrepairguy.co.uk';
         $mailer->FromName = $mailer->From;
