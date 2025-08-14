@@ -1,17 +1,17 @@
 <div id="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 font-42 ultrabold center mb-25">
+            <div class="col-md-12 font-42 ultrabold center mb-25 font-36-xs-max">
                 Drain Repair Guy <span class="green">has 100s of happy customers!</span>
             </div>
         </div>
         <div class="row mb-40">
-            <div class="col-md-5 center mt-5">
+            <div class="col-md-4 col-lg-5 center mt-5 mb-40-sm-max">
                 <a href="/">
                     <img src="/images/logo-footer.png" class="max-100">
                 </a>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-8 col-lg-7 center-sm-max">
                 <p class="font-24 mb-15">
                     <span class="ultrabold">Drain Repair Guy</span> offers customers the following:
                 </p>
@@ -32,16 +32,16 @@
                         FIXED PRICE QUOTES - WITH A <span class="bold">NO FIX, NO FEE</span> POLICY
                     </li>
                     <li>
-                        FIXED PRICE QUOTES - WITH A <span class="bold">NO FIX, NO FEE</span> POLICY
+                        AVAILABLE <span class="bold">24 HOURS A DAY, 7 DAYS A WEEK, 52 WEEKS A YEAR</span>
                     </li>
                 </ul>
             </div>
         </div>
         <div class="row mb-25">
-            <div class="col-md-5">
+            <div class="col-md-5 center-sm-max mb-20-sm-max">
                 <span class="bold">Drain Repair Guy</span> provide a wide range of <span class="bold">professional</span> domestic and commercial <span class="bold">drainage services</span>. Whether you're installing, maintaining or need your <span class="bold">toilet or drains unblocked</span>, we've got you covered. From specialist <span class="bold">CCTV drain surveys</span> to <span class="bold">24-hr Emergency Callouts</span>, our team is dependable, quick to respond, and committed to finding your problem as quickly as possible.
             </div>
-            <div class="col-md-7 right">
+            <div class="col-md-7 right center-sm-max">
                 <p class="font-22">
                     Call <span class="bold">Drain Repair Guy</span>, direct on
                 </p>
@@ -52,21 +52,24 @@
                     Or email us at <span class="bold">info@drainreparguy.co.uk</span>
                 </p>
                 <p class="bold font-14">
-                    <a href="#" class="white hover-white">drainrepairguy <img src="/images/icons/social/instagram.png" class="max-100 ml-5"></a>
-                    <a href="#" class="white hover-white ml-20">Drain Repair Guy <img src="/images/icons/social/fb.png" class="max-100 ml-5"></a>
+                    <a href="https://www.instagram.com/drainrepairguy" target="_blank" class="white hover-white">
+                        drainrepairguy <img src="/images/icons/social/instagram.png" class="max-100 ml-5"></a>
+
+                    <a href="https://www.facebook.com/people/Drain-Repair-Guy/61551209240680" target="_blank" class="white hover-white ml-20">
+                        Drain Repair Guy <img src="/images/icons/social/fb.png" class="max-100 ml-5"></a>
                 </p>
             </div>
         </div>
         <div class="row font-10 pt-10 pb-5 bt">
-            <div class="col-md-12">
+            <div class="col-md-12 center-xs-max">
                 Drain Repair Guy Limited. Company registered in England and Wales. Registration No: 15275751. Registered Office: 18 Maurice Road, Canvey Island, England, SS8 7JN
             </div>
         </div>
         <div class="row font-10 pb-15">
-            <div class="col-md-6">
+            <div class="col-sm-6 center-xs-max">
                 © 2023-2025. Drain Repair Guy Limited. All rights reserved.
             </div>
-            <div class="col-md-6 right">
+            <div class="col-sm-6 right center-xs-max">
                 Another site designed and maintained by Nine Graphics
             </div>
         </div>

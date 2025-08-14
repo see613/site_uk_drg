@@ -6,10 +6,10 @@
 <div id="header">
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-sm-6 center-xs-max">
                 <a href="/" class="logo">DRAIN REPAIR GUY</a>
             </div>
-            <div class="col-md-6 right">
+            <div class="col-sm-6 right center-xs-max">
                 <p class="semibold">
                     EMERGENCY 24/7 CALLOUT: <span class="extrabold">07498 291 675</span>
                 </p>

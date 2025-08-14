@@ -9,8 +9,8 @@ class MetaTagsWidget extends CWidget
         'default'=>'index',
 
         'index'=>array(
-            'title'=>'',
-            'description'=>'',
+            'title'=>'Blocked Drains Specialists in Essex and Kent',
+            'description'=>'Unblock Drains Fast. No Clear, No Fee. 24/7 Emergency Callout. CCTV drain surveys, no-dig excavations. Free no-obligation quotes. Call today 07498 291 675',
             'keywords'=>''
         ),
         'contact'=>array(

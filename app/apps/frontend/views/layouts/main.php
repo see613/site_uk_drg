@@ -24,10 +24,10 @@
 
     $cs->registerCssFile('/js/Smooth-Div-Scroll/css/smoothDivScroll.css');
 
-    $cs->registerCssFile('/css/helpers.css?1');
-    $cs->registerCssFile('/css/helpers-media.css?1');
+    $cs->registerCssFile('/css/helpers.css?2');
+    $cs->registerCssFile('/css/helpers-media.css?2');
 
-    $cs->registerCssFile('/css/styles.css?1');
+    $cs->registerCssFile('/css/styles.css?2');
 
 
     $cs->registerCoreScript('jquery');

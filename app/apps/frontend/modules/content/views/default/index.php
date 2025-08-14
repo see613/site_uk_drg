@@ -2,7 +2,7 @@
 <div class="container section-1">
     <div>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 center-xs-max">
                 <h1 class="mb-10">
                     <span class="green">Blocked Drains</span><br>
                     <span>Call Drain Repair Guy</span>
@@ -34,8 +34,8 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
 
-                <div class="row mb-30">
-                    <div class="col-md-7">
+                <div class="row mb-30 mb-60-md-max">
+                    <div class="col-lg-7">
                         <div class="green-bar-wrapper">
                             <div class="bg-black">
                                 <h2 class="mb-15">
@@ -50,12 +50,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-5 center">
+                    <div class="col-md-5 center hide-md-max">
                         <img src="/images/pages/home/1.jpg" class="max-100">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-sm-6">
                         <div class="item">
                             <div>
                                 <img src="/images/icons/drain.png" class="max-100">
@@ -65,7 +65,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 bl">
+                    <div class="col-lg-3 col-sm-6 bl">
                         <div class="item">
                             <div>
                                 <img src="/images/icons/toilet.png" class="max-100">
@@ -75,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 bl">
+                    <div class="col-lg-3 col-sm-6 bl">
                         <div class="item">
                             <div>
                                 <img src="/images/icons/sink.png" class="max-100">
@@ -85,7 +85,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 bl">
+                    <div class="col-lg-3 col-sm-6 bl">
                         <div class="item">
                             <div>
                                 <img src="/images/icons/root.png" class="max-100">
@@ -122,7 +122,7 @@
             <div class="col-md-10 col-md-offset-1">
 
                 <div class="row mb-30">
-                    <div class="col-md-5">
+                    <div class="col-md-5 hide-sm-max">
                         <img src="/images/pages/home/2.jpg" class="max-100">
                     </div>
                     <div class="col-md-7">
@@ -173,7 +173,7 @@
                 </h2>
                 <p class="font-18 mb-30">
                     We offer drain repairs and preventative maintenance for your home's drains, a bit like a drain doctor.
-                    What sets us apart is our customer care and drainage problem solving skills, which we think are unparalleled.
+                    What sets us apart is our customer care and drainage problem-solving skills, which we think are unparalleled.
                 </p>
             </div>
         </div>
@@ -247,7 +247,7 @@
             <div class="col-md-10 col-md-offset-1">
 
                 <div class="row">
-                    <div class="col-md-7">
+                    <div class="col-md-8 col-lg-7">
                         <h2 class="mb-20">
                             Repairing and unblocking drains across Essex
                         </h2>
@@ -258,7 +258,7 @@
                             Our Emergency callout policy is distance-related. Rather than hiking up prices unnecessarily to make it worthwhile for us, we'll recommend someone closer to your area from our network of fellow drain professionals.
                         </p>
                     </div>
-                    <div class="col-md-4 col-md-offset-1 bold font-18 text-shadow">
+                    <div class="col-md-4 col-lg-offset-1 bold font-18 text-shadow mb-20-sm-max">
                         Rodents can use drains sewage  pipes to access your home and often ‘star’ in our CCTV Drain Surveys
                     </div>
                 </div>
