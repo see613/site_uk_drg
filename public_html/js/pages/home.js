@@ -30,7 +30,7 @@ $(function(){
                     marginTop: 130 * (1 - rate)
                 });
             }
-            else if (top > scrollTop + bottomSectionTop) {
+            /*else if (top > scrollTop + bottomSectionTop) {
                 let rate = Math.max(0, Math.min(1, (top - (scrollTop + bottomSectionTop)) / (windowH - bottomSectionTop)));
 
                 $self.css({
@@ -39,7 +39,7 @@ $(function(){
                 $inner.css({
                     marginTop: -130 * rate
                 });
-            }
+            }*/
             else {
                 $self.css({
                     height: 130
