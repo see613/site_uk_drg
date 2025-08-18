@@ -11,7 +11,7 @@ class DefaultController extends Controller {
 
         $cs = Yii::app()->getClientScript();
 
-        $cs->registerScriptFile('/js/pages/home.js?1');
+        $cs->registerScriptFile('/js/pages/home.js?2');
 
         $this->render('index', []);
     }

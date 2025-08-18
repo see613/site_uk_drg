@@ -16,16 +16,18 @@
 </div>
 
 <div class="container number">
-    <div class="font-200 ultrabold mr-50">
-        01
-    </div>
     <div>
-        <p class="font-24 bold mb-10">
-            WELCOME – <span class="green">DRAIN REPAIR GUY</span>
-        </p>
-        <p>
-            Unblocking toilets and drains across <span class="bold">Essex, Suffolk, Kent and London</span>. Call us 24/7 on <span class="extrabold">07498 291675</span>
-        </p>
+        <div class="font-200 ultrabold mr-50">
+            01
+        </div>
+        <div>
+            <p class="font-24 bold mb-10">
+                WELCOME – <span class="green">DRAIN REPAIR GUY</span>
+            </p>
+            <p>
+                Unblocking toilets and drains across <span class="bold">Essex, Suffolk, Kent and London</span>. Call us 24/7 on <span class="extrabold">07498 291675</span>
+            </p>
+        </div>
     </div>
 </div>
 
@@ -103,16 +105,18 @@
 </div>
 
 <div class="container number right">
-    <div class="mr-50">
-        <p class="font-24 bold mb-10">
-            WHO WE ARE – <span class="green">DRAIN REPAIR GUY</span>
-        </p>
-        <p>
-            We are the emergency service provider for your drains. We are based in the south-end area
-        </p>
-    </div>
-    <div class="font-200 ultrabold">
-        02
+    <div>
+        <div class="mr-50">
+            <p class="font-24 bold mb-10">
+                WHO WE ARE – <span class="green">DRAIN REPAIR GUY</span>
+            </p>
+            <p>
+                We are the emergency service provider for your drains. We are based in the south-end area
+            </p>
+        </div>
+        <div class="font-200 ultrabold">
+            02
+        </div>
     </div>
 </div>
 
@@ -149,16 +153,18 @@
 </div>
 
 <div class="container number">
-    <div class="font-200 ultrabold mr-50">
-        03
-    </div>
     <div>
-        <p class="font-24 bold mb-10">
-            WHAT WE DO – <span class="green">DRAIN REPAIR GUY</span>
-        </p>
-        <p>
-            We cover all domestic and commercial drains and offers fixed quote pricing on all jobs.
-        </p>
+        <div class="font-200 ultrabold mr-50">
+            03
+        </div>
+        <div>
+            <p class="font-24 bold mb-10">
+                WHAT WE DO – <span class="green">DRAIN REPAIR GUY</span>
+            </p>
+            <p>
+                We cover all domestic and commercial drains and offers fixed quote pricing on all jobs.
+            </p>
+        </div>
     </div>
 </div>
 
@@ -227,16 +233,18 @@
 </div>
 
 <div class="container number right">
-    <div class="mr-50">
-        <p class="font-24 bold mb-10">
-            WHERE WE COVER – <span class="green">DRAIN REPAIR GUY</span>
-        </p>
-        <p>
-            We travel where the work is. Our quick response times can make all the difference in emergencies.
-        </p>
-    </div>
-    <div class="font-200 ultrabold">
-        04
+    <div>
+        <div class="mr-50">
+            <p class="font-24 bold mb-10">
+                WHERE WE COVER – <span class="green">DRAIN REPAIR GUY</span>
+            </p>
+            <p>
+                We travel where the work is. Our quick response times can make all the difference in emergencies.
+            </p>
+        </div>
+        <div class="font-200 ultrabold">
+            04
+        </div>
     </div>
 </div>
 
