@@ -49,7 +49,7 @@
                     07498291675
                 </p>
                 <p class="font-22 mb-20">
-                    Or email us at <span class="bold">info@drainreparguy.co.uk</span>
+                    Or email us at <span class="bold">info@drainrepairguy.co.uk</span>
                 </p>
                 <p class="bold font-14">
                     <a href="https://www.instagram.com/drainrepairguy" target="_blank" class="white hover-white">
